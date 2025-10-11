@@ -1,0 +1,50 @@
+.
+├── about.html
+├── assets
+│   └── fonts
+│       ├── OrangeAvenueDEMO-Regular.otf
+│       ├── OrangeAvenueOutlineDEMO-Regular.otf
+│       ├── Quivert.otf
+│       └── Quivert.ttf
+├── contact.html
+├── css
+│   └── main.css
+├── index.html
+├── js
+│   └── main.js
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── PROJECT-SUMMARY.md
+├── project_tree.txt
+├── public
+│   ├── apple-touch-icon.png
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
+│   ├── images
+│   │   ├── about-background.jpg
+│   │   ├── bg.jpg
+│   │   ├── c837a6_0f9a4576e86442e3b124952322acdd72~mv2.avif
+│   │   ├── download__10_-removebg-preview.png
+│   │   ├── download__2_-removebg-preview.png
+│   │   ├── download__3_-removebg-preview.png
+│   │   ├── download__4_-removebg-preview.png
+│   │   ├── download__5_-removebg-preview.png
+│   │   ├── download__6_-removebg-preview.png
+│   │   ├── download__7_-removebg-preview.png
+│   │   ├── download__8_-removebg-preview.png
+│   │   ├── download__9_-removebg-preview.png
+│   │   ├── images__1_-removebg-preview.png
+│   │   ├── images__2_-removebg-preview.png
+│   │   ├── images-removebg-preview (1).png
+│   │   ├── images-removebg-preview.png
+│   │   └── service-bg.jpg
+│   ├── manifest.json
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── vite.svg
+├── README.md
+└── services.html
+
+6 directories, 41 files
