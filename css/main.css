@@ -45,7 +45,7 @@
 }
 
 .hero-bottom-text {
-  margin-top: 4rem; /* pushes it down nicely */
+  margin-top: 8rem; /* pushes it down nicely */
 }
 
 @media (min-width: 768px) {
