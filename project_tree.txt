@@ -4,6 +4,7 @@
 │   └── fonts
 │       ├── OrangeAvenueDEMO-Regular.otf
 │       ├── OrangeAvenueOutlineDEMO-Regular.otf
+│       ├── Palisade.otf
 │       ├── Quivert.otf
 │       └── Quivert.ttf
 ├── contact.html
@@ -39,6 +40,8 @@
 │   │   ├── images__2_-removebg-preview.png
 │   │   ├── images-removebg-preview (1).png
 │   │   ├── images-removebg-preview.png
+│   │   ├── portfolio-bg.jpg
+│   │   ├── process-bg.jpg
 │   │   └── service-bg.jpg
 │   ├── manifest.json
 │   ├── robots.txt
@@ -47,4 +50,4 @@
 ├── README.md
 └── services.html
 
-6 directories, 41 files
+6 directories, 44 files
