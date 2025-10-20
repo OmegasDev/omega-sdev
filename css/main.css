@@ -269,9 +269,9 @@ nav.container-custom {
   flex-direction: column;
   align-items: center;
   gap: 1.2rem;
-  background: rgba(30, 0, 60, 0.95);
+  background: rgba(21, 21, 22, 0.95);
   padding: 1.5rem 0;
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-top: 1px solid rgba(86, 84, 84, 0.05);
 }
 
 .mobile-menu.open {
